@@ -41,3 +41,5 @@ Bu, `discord.py` kütüphanesini kullanarak Python ile yazılmış bir Discord b
 Botu çalıştırmak için:
 ```bash
 python main.py
+
+Bu proje tamamamen türkçedir inglizce projeye bakmak istiyorsanız linki kontrol edin https://github.com/affanatmaca/fivem-server-bot/
